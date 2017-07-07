@@ -1,2 +1,1 @@
-# hello-world
-Try
+Trting Github for the first time
